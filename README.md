@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=BBplayer2021&color=0079fa&style=flat-square&label=PROFILE+VIEWS)](https://github.com/BBplayer2021)
 
 👋 Hi, I'm **Xin**, a dual-degree Master's student:
-- **M.S. in Animal Genetics, Breeding & Reproduction** at **Sichuan Agricultural University**, supervised by [Prof. Wang Linjie's Lab]([https://github.com/BBplayer2021/fishandgoat-lab](https://fishandgoat.cloud/)) (Sheep Genomics)
+- **M.S. in Animal Genetics, Breeding & Reproduction** at **Sichuan Agricultural University**, supervised by ([Prof. Wang Linjie's Lab](https://fishandgoat.cloud/)) (Sheep Genomics)
 - **MBA** at **Harbin Institute of Technology**
 
 🔭 My research interests span **bioinformatics** and **livestock genomics**, with a focus on:
@@ -34,7 +34,7 @@
 📫 **How to reach me:**
 - Email: [491861610@qq.com](mailto:491861610@qq.com)
 - WeChat: bbplayer2021
-- CSDN Blog: [穆易青]([\https://blog.csdn.net/yangl7](https://blog.csdn.net/yangl7))
+- CSDN Blog: ([穆易青](https://blog.csdn.net/yangl7))
 - WeChat Official Account: **木青生信大模型**
 ---
 
