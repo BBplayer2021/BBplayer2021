@@ -34,6 +34,8 @@
 📫 **How to reach me:**
 - Email: [491861610@qq.com](mailto:491861610@qq.com)
 - WeChat: bbplayer2021
+- CSDN Blog: [穆易青](\https://blog.csdn.net/yangl7)
+- WeChat Official Account: **木青生信大模型**
 ---
 
 <p align="center">
